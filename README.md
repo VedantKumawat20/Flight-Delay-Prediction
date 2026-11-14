@@ -177,16 +177,3 @@ Logistic Regression is preferable when identifying more actual delayed flights i
 
 Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
-## 14. Repository Structure
-
-```text
-Flight-Delay-Prediction/
-├── README.md
-├── notebooks/
-│   └── Flight_Delay_Prediction.ipynb
-├── data/
-│   └── README.md
-├── presentation/
-│   └── Flight_Delay_Prediction_Presentation.pptx
-└── images/
-    └── README.md
